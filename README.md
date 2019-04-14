@@ -29,3 +29,7 @@ Two great ressources on which examples here are inspired :
 <img src="gifs/brownian.gif" width="200" height="200" />
 
 [Brownian motion](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-brownian-motion/)
+
+<img src="gifs/circlewave.gif" width="200" height="200" />
+
+[Circlewave noise](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-circlewave-noise/)
