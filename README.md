@@ -24,7 +24,7 @@ Two great ressources on which examples here are inspired :
 
 [Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-example-00/)
 
-### Examples from the gallery
+### Examples loosely modified from the gallery
 
 <img src="gifs/brownian.gif" width="200" height="200" />
 
@@ -37,3 +37,15 @@ Two great ressources on which examples here are inspired :
 <img src="gifs/metaballs00.gif" width="200" height="200" />
 
 [Metaballs 00](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-metaballs-00/)
+
+<img src="gifs/metaballs01.gif" width="200" height="200" />
+
+[Metaballs 01](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-metaballs-01/)
+
+<img src="gifs/reflected-turbulence.gif" width="200" height="200" />
+
+[Turbulence with symetry](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-reflected-turbulence/)
+
+<img src="gifs/terrain.gif" width="200" height="200" />
+
+[Terrain](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-terrain/)
