@@ -33,3 +33,7 @@ Two great ressources on which examples here are inspired :
 <img src="gifs/circlewave.gif" width="200" height="200" />
 
 [Circlewave noise](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-circlewave-noise/)
+
+<img src="gifs/metaballs00.gif" width="200" height="200" />
+
+[Metaballs 00](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-metaballs-00/)
