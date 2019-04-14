@@ -9,7 +9,12 @@ Two great ressources on which examples here are inspired :
 <br></br>
 <br></br>
 
-## p5js default example
+## p5js examples
+
+<img src="gifs/bloom.gif" width="200" height="200" />
+
+[Bloom on simple geometry](https://b2renger.github.io/p5js-shaders/shader-bloom/)
+
 <img src="images/p5js-shader-example.png" width="200" height="200" />
 
 [Mandelbort](https://b2renger.github.io/p5js-shaders/p5js-shader-example-00/)
