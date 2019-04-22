@@ -60,4 +60,4 @@ Two great ressources on which examples here are inspired :
 
 <img src="gifs/danguafer.gif" width="200" height="200" />
 
-[Mod of Danguafer's work](https://b2renger.github.io/p5js-shaders/bos-shader-demo-Danguafer/)
+[Mod of Danguafer's work](https://b2renger.github.io/p5js-shaders/bos-shader-demo-danguafer/)
