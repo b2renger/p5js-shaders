@@ -31,7 +31,11 @@ Two great ressources on which examples here are inspired :
 
 <img src="images/bos-gradient-sin00.png" width="200" height="200" />
 
-[Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-sin00/)
+[Sinus gradient 1](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-sin00/)
+
+<img src="images/bos-gradient-sin01.png" width="200" height="200" />
+
+[Sinus gradient 2](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-sin01/)
 
 ### Examples loosely modified from the gallery
 
