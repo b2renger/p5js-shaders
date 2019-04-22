@@ -29,6 +29,10 @@ Two great ressources on which examples here are inspired :
 
 [Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-00/)
 
+<img src="images/bos-gradient-sin00.png" width="200" height="200" />
+
+[Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-sin00/)
+
 ### Examples loosely modified from the gallery
 
 <img src="gifs/brownian.gif" width="200" height="200" />
