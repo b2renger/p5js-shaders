@@ -54,3 +54,10 @@ Two great ressources on which examples here are inspired :
 <img src="gifs/terrain.gif" width="200" height="200" />
 
 [Terrain](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-terrain/)
+
+
+### Derived works from references presented in the book
+
+<img src="gifs/danguager.gif" width="200" height="200" />
+
+[Mod of Danguafer's work](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-demo-Danguager/)
