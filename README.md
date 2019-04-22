@@ -27,7 +27,7 @@ Two great ressources on which examples here are inspired :
 ### Examples from the book
 <img src="images/bos-shader-example-00.png" width="200" height="200" />
 
-[Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-example-00/)
+[Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-00/)
 
 ### Examples loosely modified from the gallery
 
