@@ -45,6 +45,10 @@ Two great ressources on which examples here are inspired :
 
 [Step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-step/)
 
+<img src="images/bos-gradient-smoothstep.png" width="200" height="200" />
+
+[smooth step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-smoothstep/)
+
 ### Examples loosely modified from the gallery
 
 <img src="gifs/brownian.gif" width="200" height="200" />
