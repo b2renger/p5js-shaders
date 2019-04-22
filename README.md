@@ -37,6 +37,14 @@ Two great ressources on which examples here are inspired :
 
 [Sinus gradient 2](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-sin01/)
 
+<img src="images/bos-gradient-pow.png" width="200" height="200" />
+
+[Power gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-power/)
+
+<img src="images/bos-gradient-step.png" width="200" height="200" />
+
+[Step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-step/)
+
 ### Examples loosely modified from the gallery
 
 <img src="gifs/brownian.gif" width="200" height="200" />
