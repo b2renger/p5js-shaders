@@ -58,6 +58,6 @@ Two great ressources on which examples here are inspired :
 
 ### Derived works from references presented in the book
 
-<img src="gifs/danguager.gif" width="200" height="200" />
+<img src="gifs/danguafer.gif" width="200" height="200" />
 
-[Mod of Danguafer's work](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-demo-Danguager/)
+[Mod of Danguafer's work](https://b2renger.github.io/p5js-shaders/bos-shader-gallery-demo-Danguafer/)
