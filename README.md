@@ -49,6 +49,10 @@ Two great ressources from which examples here are inspired :
 
 [smooth step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradiant-smoothstep/)
 
+<img src="gifs/color_easing.gif" width="200" height="200" />
+
+[color easing ](https://b2renger.github.io/p5js-shaders/bos-shader-color-easing/)
+
 ### Examples loosely modified from the gallery
 
 <img src="gifs/brownian.gif" width="200" height="200" />
