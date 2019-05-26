@@ -2,7 +2,7 @@
 
 Experiments with [p5js](https://p5js.org/) on [shaders](https://en.wikipedia.org/wiki/Shader).
 
-Two great ressources on which examples here are inspired :
+Two great ressources from which examples here are inspired :
 - [The book of Shaders](https://thebookofshaders.com/) by [Patricio Gonzales Vivo](http://patriciogonzalezvivo.com/)
 - [p5js Shaders Examples](https://github.com/aferriss/p5jsShaderExamples) by [Adam Ferris](https://amf.fyi/)
 
@@ -27,27 +27,27 @@ Two great ressources on which examples here are inspired :
 ### Examples from the book
 <img src="images/bos-shader-example-00.png" width="200" height="200" />
 
-[Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-00/)
+[Linear gradient](https://b2renger.github.io/p5js-shaders/bos-shader-gradiant-00/)
 
-<img src="images/bos-gradient-sin00.png" width="200" height="200" />
+<img src="images/bos-gradiant-sin00.png" width="200" height="200" />
 
-[Sinus gradient 1](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-sin00/)
+[Sinus gradient 1](https://b2renger.github.io/p5js-shaders/bos-shader-gradiant-sin00/)
 
-<img src="images/bos-gradient-sin01.png" width="200" height="200" />
+<img src="images/bos-gradiant-sin01.png" width="200" height="200" />
 
-[Sinus gradient 2](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-sin01/)
+[Sinus gradient 2](https://b2renger.github.io/p5js-shaders/bos-shader-gradiant-sin01/)
 
-<img src="images/bos-gradient-pow.png" width="200" height="200" />
+<img src="images/bos-gradiant-pow.png" width="200" height="200" />
 
-[Power gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-power/)
+[Power gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradiant-power/)
 
-<img src="images/bos-gradient-step.png" width="200" height="200" />
+<img src="images/bos-gradiant-step.png" width="200" height="200" />
 
-[Step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-step/)
+[Step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradiant-step/)
 
-<img src="images/bos-gradient-smoothstep.png" width="200" height="200" />
+<img src="images/bos-gradiant-smoothstep.png" width="200" height="200" />
 
-[smooth step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradient-smoothstep/)
+[smooth step gradient ](https://b2renger.github.io/p5js-shaders/bos-shader-gradiant-smoothstep/)
 
 ### Examples loosely modified from the gallery
 
