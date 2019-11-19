@@ -20,9 +20,9 @@ Three great ressources from which examples here are inspired :
 
 [Mandelbort](https://b2renger.github.io/p5js-shaders/p5js-shader-example-00/)
 
-<img src="gifs/blends.gifs" width="200" height="200" />
+<img src="gifs/blends.gif" width="200" height="200" />
 
-[Mandelbort](https://b2renger.github.io/p5js-shaders/shader-blends/)
+[All the blends in one shader](https://b2renger.github.io/p5js-shaders/shader-blends/)
 
 
 
