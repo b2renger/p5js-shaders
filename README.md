@@ -2,9 +2,10 @@
 
 Experiments with [p5js](https://p5js.org/) on [shaders](https://en.wikipedia.org/wiki/Shader).
 
-Two great ressources from which examples here are inspired :
+Three great ressources from which examples here are inspired :
 - [The book of Shaders](https://thebookofshaders.com/) by [Patricio Gonzales Vivo](http://patriciogonzalezvivo.com/)
 - [p5js Shaders Examples](https://github.com/aferriss/p5jsShaderExamples) by [Adam Ferris](https://amf.fyi/)
+- [p5js shaders](https://itp-xstory.github.io/p5js-shaders/#/)
 
 <br></br>
 <br></br>
@@ -18,6 +19,10 @@ Two great ressources from which examples here are inspired :
 <img src="images/p5js-shader-example.png" width="200" height="200" />
 
 [Mandelbort](https://b2renger.github.io/p5js-shaders/p5js-shader-example-00/)
+
+<img src="gifs/blends.gifs" width="200" height="200" />
+
+[Mandelbort](https://b2renger.github.io/p5js-shaders/shader-blends/)
 
 
 
