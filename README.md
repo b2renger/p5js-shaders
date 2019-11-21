@@ -24,6 +24,11 @@ Three great ressources from which examples here are inspired :
 
 [All the blends in one shader](https://b2renger.github.io/p5js-shaders/shader-blends/)
 
+<img src="gifs/mask.gif" width="200" height="200" />
+
+[Mask an offscreen](https://b2renger.github.io/p5js-shaders/shader-mask/)
+
+
 
 
 ## Book of shaders
