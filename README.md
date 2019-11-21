@@ -26,7 +26,7 @@ Three great ressources from which examples here are inspired :
 
 <img src="gifs/mask.gif" width="200" height="200" />
 
-[Mask an offscreen](https://b2renger.github.io/p5js-shaders/shader-mask/)
+[Mask an offscreen](https://b2renger.github.io/p5js-shaders/shader-mask/index.html)
 
 
 
