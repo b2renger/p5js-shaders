@@ -29,6 +29,11 @@ Three great ressources from which examples here are inspired :
 [Mask an offscreen](https://b2renger.github.io/p5js-shaders/shader-mask/index.html)
 
 
+## from Adam Ferris examples
+
+<img src="gifs/displacement.gif" width="200" height="200" />
+
+[vertex displacement from texture](https://b2renger.github.io/AF-shader-vertex-displacement/index.html)
 
 
 ## Book of shaders
