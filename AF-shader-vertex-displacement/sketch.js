@@ -25,10 +25,10 @@ function setup() {
   noStroke();
   //noise.resize(100, 100)
 
-  cam = createCapture(VIDEO);
-  cam.size(640, 480);
+  //cam = createCapture(VIDEO);
+  //cam.size(640, 480);
 
-  cam.hide();
+  //cam.hide();
 }
 
 function draw() {
