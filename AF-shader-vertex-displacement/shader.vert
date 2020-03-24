@@ -27,6 +27,7 @@ uniform mat4 uModelViewMatrix;
 
 // Get the framecount uniform
 uniform float uFrameCount;
+uniform float amp;
 
 // Get the noise texture
 uniform sampler2D uNoiseTexture;
@@ -47,7 +48,7 @@ void main() {
   vec4 positionVec4 = vec4(aPosition, 1.0);
 
   // Amplitude will determine the amount of the displacement
-  float amplitude = sin (uFrameCount) *50.0;
+  float amplitude =  (uFrameCount) * amp;
 
   // add the noise to the position, and multiply by the normal to move along it. 
   //positionVec4.xyz += (noise.rgb - 0.5 ) * aNormal * amplitude;
