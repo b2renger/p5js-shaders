@@ -42,8 +42,16 @@ Three great ressources from which examples here are inspired :
 
 [radial FBM](https://b2renger.github.io/p5js-shaders/IQ-radial-FBM/)
 
+## from the Pixel Spirit Deck
 
-## from th Book of shaders
+[pixel spirit deck recode](#pixel-spirit-deck/README.md)
+
+
+## from the Book of shaders
+
+### Recode from bos pages
+
+[book of shaders examplesrecode](#Basics_bos/README.md)
 
 ### Examples loosely modified from the gallery
 
