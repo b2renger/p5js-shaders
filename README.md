@@ -44,14 +44,14 @@ Three great ressources from which examples here are inspired :
 
 ## from the Pixel Spirit Deck
 
-[pixel spirit deck recode](#pixel-spirit-deck/README.md)
+[pixel spirit deck recode](pixel-spirit-deck/README.md)
 
 
 ## from the Book of shaders
 
 ### Recode from bos pages
 
-[book of shaders examplesrecode](#Basics_bos/README.md)
+[book of shaders examplesrecode](Basics_bos/README.md)
 
 ### Examples loosely modified from the gallery
 
