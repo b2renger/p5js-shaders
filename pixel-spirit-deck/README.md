@@ -15,3 +15,7 @@ Pixel spirit deck : https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 <img src="assets/02_strength.gif" width="400" height="300" />
 
 [STRENGTH](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/02_strength/)
+
+<img src="assets/03_death.gif" width="400" height="300" />
+
+[STRENGTH](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/02_death/)
