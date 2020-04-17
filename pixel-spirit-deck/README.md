@@ -23,3 +23,7 @@ Pixel spirit deck : https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 <img src="assets/04_the_wall.gif" width="400" height="300" />
 
 [THE WALL](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/04_the_wall/)
+
+<img src="assets/05_temperance.gif" width="400" height="300" />
+
+[TEMPERANCE](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/05_temperance/)
