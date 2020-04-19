@@ -31,3 +31,7 @@ Pixel spirit deck : https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 <img src="assets/06_branch.gif" width="400" height="300" />
 
 [BRANCH](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/06_branch/)
+
+<img src="assets/07_the_hangedman.gif" width="400" height="300" />
+
+[THE HANGED MAN](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/07_the_hangedman/)
