@@ -12,7 +12,7 @@ uniform float u_time;
 
 
 // texture position - stroke position - width
-float strokeSDF( float x, float s, float w){
+float stroke( float x, float s, float w){
     float d = step(s, x + w*.5) - step (s , x - w*.5);
     return clamp(d, 0.0, 1.0);
 }
@@ -23,16 +23,16 @@ void main() {
     vec3 col = vec3(.0);
 
     
-    float d = strokeSDF(.5+ (st.x - st.y )*.5, 0.5 ,  0.051);
+    float d = stroke(.5+ (st.x - st.y )*.5, 0.5 ,  0.051);
     col +=  d;
 
     if (st.x > 0.5){
-        d = strokeSDF( .75+ (st.x - st.y*2.*st.y*2. )*.5, 0.5 ,  0.151);
+        d = stroke( .75+ (st.x - st.y*2.*st.y*2. )*.5, 0.5 ,  0.151);
         col +=  d * (sin(u_time)+ 1. )*0.5;
     }
 
     if (st.x > 0.52 && st.y > 0.7){
-        d = strokeSDF( (st.x - st.y*0.3), 0.52 ,  0.021);
+        d = stroke( (st.x - st.y*0.3), 0.52 ,  0.021);
         col +=  d * (sin(u_time + PI)+ 1. )*0.5;;
     }
 
