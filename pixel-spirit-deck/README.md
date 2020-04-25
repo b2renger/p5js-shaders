@@ -38,4 +38,8 @@ Pixel spirit deck : https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 
 <img src="assets/08_the_high_priestess.gif" width="400" height="200" />
 
-[THE HANGED MAN](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/07_the_high_priestess/)
+[THE HIGH PRIESTESS](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/08_the_high_priestess/)
+
+<img src="assets/09_the_moon.gif" width="400" height="200" />
+
+[THE MOON](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/09_the_moon/)

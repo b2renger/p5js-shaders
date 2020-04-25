@@ -1,0 +1,12 @@
+- distortion
+	=> https://tympanus.net/codrops/2016/05/03/animated-heat-distortion-effects-webgl/
+	&& distortion 3D
+
+- ripples from rainstick
+
+- light painting
+
+- blends
+
+- fake  
+	=> https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/
