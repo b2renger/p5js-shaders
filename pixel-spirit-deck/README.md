@@ -46,4 +46,4 @@ Pixel spirit deck : https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 
 <img src="assets/10_the_emperor.gif" width="400" height="200" />
 
-[THE MOON](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/10_the_emperor/)
+[THE EMPEROR](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/10_the_emperor/)
