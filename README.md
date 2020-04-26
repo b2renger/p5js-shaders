@@ -42,6 +42,15 @@ Three great ressources from which examples here are inspired :
 
 [radial FBM](https://b2renger.github.io/p5js-shaders/IQ-radial-FBM/)
 
+
+## from the Twitter
+
+<img src="gifs/landscape.gif" width="200" height="200" />
+
+[landscapz from @kasari39](https://b2renger.github.io/p5js-shaders/fromTwitter_wavy_landscape)
+
+
+
 ## from the Pixel Spirit Deck
 
 [pixel spirit deck recode](pixel-spirit-deck/README.md)
