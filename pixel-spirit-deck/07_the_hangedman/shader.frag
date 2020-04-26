@@ -29,23 +29,31 @@ float stroke( float x, float s, float w){
 }
 
 void main() {
-    vec2 st = gl_FragCoord.xy/u_resolution *2.;
-   
+    vec2 st = gl_FragCoord.xy/u_resolution;
+    st = (st-.5)*1.1912+.5;
+    if (u_resolution.y > u_resolution.x ) {
+        st.y *= u_resolution.y/u_resolution.x;
+        st.y -= (u_resolution.y*.5-u_resolution.x*.5)/u_resolution.x;
+    } else {
+        st.x *= u_resolution.x/u_resolution.y;
+        st.x -= (u_resolution.x*.5-u_resolution.y*.5)/u_resolution.y;
+    }
+
 
     vec3 col = vec3(.0);
 
     float b1 =  .5; // horizontal alignement
     float t = mod(u_time,7.);
    
-    float b2 = bounceEaseOut(t, 2., -1., 5. );
+    float b2 = bounceEaseOut(t, 2., -1.5, 5. );
     st.y -= b2;
 
    
 
-    float d = stroke((st.x - st.y * b2 *.55 )*.5, b1 ,  0.051);
+    float d = stroke((st.x - st.y * b2 *2.5 ), b1 ,  0.1);
     col +=  d;
 
-    d = stroke((st.x + st.y *b2 *.55 )*.5, b1 ,  0.051);
+    d = stroke((st.x + st.y *b2 *2.5 ), b1 ,  0.1);
     col +=  d;
 
    

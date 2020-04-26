@@ -10,20 +10,18 @@ uniform float u_time;
 
 #define PI 3.1415926538
 
-
-// texture position - stroke position - width
 float stroke( float x, float s, float w){
     float d = step(s, x + w*.5) - step (s , x - w*.5);
     return clamp(d, 0.0, 1.0);
 }
 
 void main() {
-    vec2 st = gl_FragCoord.xy/u_resolution;
-
+     vec2 st = gl_FragCoord.xy/u_resolution;
+    
     vec3 col = vec3(.0);
 
     
-    float d = stroke(.5+ (st.x - st.y )*.5, 0.5 ,  0.051);
+    float d = stroke( (st.x - st.y ), 0. ,  0.091);
     col +=  d;
 
     if (st.x > 0.5){

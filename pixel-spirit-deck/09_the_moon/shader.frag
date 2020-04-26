@@ -16,7 +16,7 @@ float stroke (float x, float s, float w){
 }
 
 float circleSDF(vec2 p, float r){
-    return length(p) - r;
+    return length(p-.5) - r;
 }
 
 float fill(float x, float size){
@@ -24,22 +24,28 @@ float fill(float x, float size){
 }
 
 void main() {
-    vec2 st = gl_FragCoord.xy/u_resolution;
-    vec2 p = -1.0 + 2.0 * st;
-    p.x *= u_resolution.x/u_resolution.y;
+   vec2 st = gl_FragCoord.xy/u_resolution;
+    st = (st-.5)*1.1912+.5;
+    if (u_resolution.y > u_resolution.x ) {
+        st.y *= u_resolution.y/u_resolution.x;
+        st.y -= (u_resolution.y*.5-u_resolution.x*.5)/u_resolution.x;
+    } else {
+        st.x *= u_resolution.x/u_resolution.y;
+        st.x -= (u_resolution.x*.5-u_resolution.y*.5)/u_resolution.y;
+    }
 
     vec3 col = vec3(.0);
 
-    float d = fill(circleSDF(p , 0.2), .65);
+    float d = fill(circleSDF(st , 0.2), .25);
     col +=  d;
 
     float t = mod(u_time*0.5 , PI);
     float w1 = -cos(t);
     float w2 = sin(t * PI) + 1.;
 
-    vec2 offset = vec2(2. *w1, .5 *w2);
+    vec2 offset = vec2(1. *w1, .5 *w2);
 
-    col -= fill(circleSDF(p - offset , 0.17), .65);
+    col -= fill(circleSDF(st - offset , 0.19), .25);
     
     gl_FragColor = vec4(col, 1.0);
 }
