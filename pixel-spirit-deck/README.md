@@ -47,3 +47,7 @@ Pixel spirit deck : https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 <img src="assets/10_the_emperor.gif" width="400" height="200" />
 
 [THE EMPEROR](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/10_the_emperor/)
+
+<img src="assets/11_the_hierophant.gif" width="400" height="200" />
+
+[THE HIEROPHANT](https://b2renger.github.io/p5js-shaders/pixel-spirit-deck/11_the_hierophant/)
