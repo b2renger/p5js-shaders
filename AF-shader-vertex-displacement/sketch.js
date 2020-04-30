@@ -45,8 +45,10 @@ function setup() {
   })
   menu.addDropDown("movement type", ["noise", "sinus", "audio"], function (v) {
     params.movement_type = v.index ;
+    if (v.index == 2){
     mic = new p5.AudioIn();
     mic.start();
+    }
   })
   menu.addDropDown("source input", ["image", "webcam"], function (v) {
     params.source = v.index;
