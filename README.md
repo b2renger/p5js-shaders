@@ -53,7 +53,7 @@ Three great ressources from which examples here are inspired :
 
 ## from the Pixel Spirit Deck
 
-[pixel spirit deck recode](pixel-spirit-deck/README.md)
+[pixel spirit deck recode](https://github.com/b2renger/p5js_pixel-spirit-deck_shaders)
 
 
 ## from the Book of shaders
