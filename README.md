@@ -47,7 +47,11 @@ Three great ressources from which examples here are inspired :
 
 <img src="gifs/landscape.gif" width="200" height="200" />
 
-[landscapz from @kasari39](https://b2renger.github.io/p5js-shaders/fromTwitter_wavy_landscape)
+[landscape from @kasari39](https://b2renger.github.io/p5js-shaders/fromTwitter_wavy_landscape)
+
+<img src="gifs/wobbly.gif" width="200" height="200" />
+
+[wobbly sphere from @nusan_fx](https://b2renger.github.io/p5js-shaders/fromTwitter_sphere_wobbly)
 
 
 
