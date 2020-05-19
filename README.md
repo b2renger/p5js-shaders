@@ -53,6 +53,10 @@ Three great ressources from which examples here are inspired :
 
 [wobbly sphere from @nusan_fx](https://b2renger.github.io/p5js-shaders/fromTwitter_sphere_wobbly/index.html)
 
+<img src="gifs/wavy.gif" width="200" height="200" />
+
+[wavy reflection from @nusan_fx](https://b2renger.github.io/p5js-shaders/fromTwitter_sphere_wavy_reflection/index.html)
+
 
 
 ## from the Pixel Spirit Deck
