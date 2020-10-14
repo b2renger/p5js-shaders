@@ -44,6 +44,7 @@ function draw() {
 
 
   drawing.noStroke()
+  drawing.noSmooth()
   drawing.fill(drawingColor)
   drawing.ellipse(mouseX - width * 0.5, mouseY - height * 0.5, 50, 50)
 
