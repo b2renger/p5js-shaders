@@ -28,6 +28,11 @@ Three great ressources from which examples here are inspired :
 
 [Mask an offscreen](https://b2renger.github.io/p5js-shaders/shader-mask/index.html)
 
+<img src="gifs/lowfi_interferences.gif" width="200" height="200" />
+
+[Mask an offscreen](https://b2renger.github.io/p5js-shaders/shader-lowfi_interferences/index.html)
+
+
 
 ## from Adam Ferris examples
 
